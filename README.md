@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkahigeL
 - 👀 I’m interested in programming. Any kind of it.
-- 🌱 I’m currently learning "i don't know what"
+- 🌱 I’m currently learning Java, Android-development.
 - 💞️ I’m looking to collaborate on "???"
 - 📫 How to reach me: just try it.
 
